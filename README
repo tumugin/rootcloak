@@ -1,5 +1,5 @@
-WHAT IS THISi
-===============
+WHAT IS THIS
+======================
 　　　　　　　　　　　　　　＿＿　┐　 
 　　　　 　 　 　 　 r y'´　　　　　 ｀ヽ　 
 　　　　　　　　　　ﾉ　　　・_,_,・　　　　 )ﾊ､　 
@@ -17,9 +17,9 @@ WHAT IS THISi
 　　　　　　　 |＼Vﾍ ヽ　l.l.∧_/lol∨/　 ／　　ｲ　 
 　　　　　　　,′ ＼ ＼∨.!.!　/:.:{:}:.＼イ::::ﾍ　/ }　 
 How to build native library
-===============
+======================
 Just run ndk-build in app/src/main/jni. "librootcloakplus.cy.so" will be compiled in app/src/main/libs.
 You have to copy the "librootcloakplus.cy.so" in each architecture directory to app/src/main/jniLibs.
 Supports x86 build
-===============
+======================
 I dont't have x86 devices so it might not work. Please someone test it.

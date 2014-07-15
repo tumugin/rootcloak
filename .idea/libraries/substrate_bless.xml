@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="substrate-bless">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/substrate-bless.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

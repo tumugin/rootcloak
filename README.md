@@ -1,0 +1,25 @@
+WHAT IS THIS
+======================
+　　　　　　　　　　　　　　＿＿　┐　 
+　　　　 　 　 　 　 r y'´　　　　　 ｀ヽ　 
+　　　　　　　　　　ﾉ　　　・_,_,・　　　　 )ﾊ､　 
+　　　　　　　 「「「{ 　 　 　 　 　 　 　 ﾉ　ﾉｒ‐ｧ　 
+　　　 　 　 　 〉　ゝ　　　　　　 　 　 人/⌒　⌒ヽ　 
+　　　　 　 _て二ヽト､ ＿＿＿ 　 イ 　 Y　　　　 ',　 
+　　　　　/　　　 ヽ　　 /ｌ {　　　 ! Ll＿ ＼　　　　ヽ　 Ah^~My heart will be hopping^~
+　　　　 / /　　　//7レイ'ト 　 ! j ﾊﾊ　i ><ヽ 　　　ヽ　 This is RootCloakPlus for
+　　　　 ﾚ′　 l/>< ∧ﾊzﾍ 　 ﾚ'〒ミ､V∧〉 〉／　　 〉　      Android Studio.
+　　 　 / 　丶　{∧〉i　イ心 ＼l　 V/ﾘ V　　|　　　　/　 
+.　　　〈　　　 Ⅵ　i　|　 辷ｿ　　, 　`´,,,│i　 |　　　 /　 
+　　　　ヽ 　 　 |　|　ﾊ　'''　　 ､　, 　 　 ﾊ!　 |　 　 /　 
+　　　　　＼　　l　l　トへ　　　　　　　イ ﾉ　 j 　　/　 
+　　　　　　 ＼ ∨!　ヽ ＼二 ｪ‐　ｴ y7　　 ﾉ　　/　 
+　　　　　　　 |＼Vﾍ ヽ　l.l.∧_/lol∨/　 ／　　ｲ　 
+　　　　　　　,′ ＼ ＼∨.!.!　/:.:{:}:.＼イ::::ﾍ　/ }　 
+How to build native library
+======================
+Just run ndk-build in app/src/main/jni. "librootcloakplus.cy.so" will be compiled in app/src/main/libs.
+You have to copy the "librootcloakplus.cy.so" in each architecture directory to app/src/main/jniLibs.
+Supports x86 build
+======================
+I dont't have x86 devices so it might not work. Please someone test it.
